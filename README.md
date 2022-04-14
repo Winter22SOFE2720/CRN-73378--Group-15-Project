@@ -2,7 +2,7 @@ SOFE 2720U - Principles of Software and Requirements Engineering
 
 Online Shopping System Project
 
-Group 15:
+<b> Group 15: </b>
 
 Shahriar Karim
 
