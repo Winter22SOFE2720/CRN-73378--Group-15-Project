@@ -11,6 +11,9 @@ Purtha Shaariyaar
 Krishka Chauhan
 
 <b> Overview: </b>
+Design and develop an Online Shopping System called Ontario Tech Shop that allows customers
+to view a category of products, create an account, purchase orders and view order history.
+
 
 
 
