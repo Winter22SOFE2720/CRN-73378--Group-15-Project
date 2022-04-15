@@ -1,6 +1,7 @@
 SOFE 2720U - Principles of Software and Requirements Engineering 
 
 Online Shopping System Project
+
 OntarioTechCommerce
 
 <b> Group 15: </b>
