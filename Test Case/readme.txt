@@ -6,5 +6,3 @@ Testing functions that rely on other functions to operate
 
 Unit test:
 Testing simple functions in the system
-
-
