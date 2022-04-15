@@ -16,6 +16,7 @@ to view a category of products, create an account, purchase orders and view orde
 easy to navigate, user friendly system.
 
 
+![Capture](https://user-images.githubusercontent.com/95264108/163629923-e57661d7-21ed-49fe-b40f-22d976c89d49.JPG)
 
 
 
