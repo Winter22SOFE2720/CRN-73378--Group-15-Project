@@ -1,5 +1,4 @@
-<u> SOFE 2720U - Principles of Software and Requirements Engineering </u>
-<u> SOFE 2720U - Principles of Software and Requirements Engineering </u>
+SOFE 2720U - Principles of Software and Requirements Engineering
 
 Online Shopping System Project - OntarioTechCommerce
 
