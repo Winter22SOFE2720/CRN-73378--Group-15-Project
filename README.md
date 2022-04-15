@@ -4,11 +4,11 @@ Online Shopping System Project - OntarioTechCommerce
 
 <b> Group 15: </b>
 
-Shahriar Karim
+Shahriar Karim - 100749951
 
-Purtha Shaariyaar
+Purtha Shaariyaar -
 
-Krishka Chauhan
+Krishka Chauhan -
 
 <b> Overview: </b>
 Design and develop an Online Shopping System called Ontario Tech Shop that allows customers
