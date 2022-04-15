@@ -8,7 +8,7 @@ Shahriar Karim - 100749951
 
 Purtha Shaariyaar - 100520674
 
-Krishka Chauhan -
+Krishka Chauhan - 100786353
 
 <b> Overview: </b>
 Design and develop an Online Shopping System called Ontario Tech Shop that allows customers
