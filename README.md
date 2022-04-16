@@ -2,6 +2,9 @@ SOFE 2720U - Principles of Software and Requirements Engineering
 
 Online Shopping System Project - OntarioTechCommerce
 
+![Capture8](https://user-images.githubusercontent.com/95264108/163655098-dc6023ea-f302-4fee-9a8b-ae6d9ec2e147.JPG)
+
+
 <b> Group 15: </b>
 
 Shahriar Karim - 100749951
